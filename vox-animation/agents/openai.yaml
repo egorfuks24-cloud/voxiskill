@@ -1,0 +1,6 @@
+interface:
+  display_name: "VOX Animation"
+  short_description: "Многослойные видео: история, движение, голос и титры"
+  default_prompt: "Используй $vox-animation для многослойного видео: уточни недостающие параметры и сохрани бюджет до производства."
+policy:
+  allow_implicit_invocation: true

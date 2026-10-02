@@ -1,0 +1,21 @@
+{
+  "examplesNotAutomaticApproval": true,
+  "formatSuggestion": {"width":720,"height":1280,"fps":30,"durationSeconds":[65,70]},
+  "history-paper": {
+    "colors":{"background":"#0E1F2B","paper":"#EBDFC9","conflict":"#BC3027","attention":"#F5C145"},
+    "materials":["warm torn paper","archival engraving cutouts","contact shadows"],
+    "fontRoles":["editorial heading","readable captions","optional paper serif"],
+    "provenance":"Historical France/Germany coded-collage production; adapt only after choice."
+  },
+  "red-noir": {
+    "colors":{"background":"#151012","paper":"#E8DCC3","conflict":"#751C24","attention":"#D99B48"},
+    "materials":["angular illustrated paper","elongated silhouettes","matte grain","warm directional light"],
+    "fontRoles":["bold serif heading","bold serif word-accent captions"],
+    "provenance":"Chikatilo story-v3 and nine German noir explainers; no graphic violence or glorification."
+  },
+  "fontFilesBundled":false,
+  "paidCallsAllowedByDefault":false,
+  "imageToVideoAutomatic":false,
+  "musicAutomatic":false,
+  "pageRustlingAutomatic":false
+}

@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*credentials*
+*cookies*
+voice-request*.json
+voice-response*.json
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+output/
+private/
+.DS_Store
